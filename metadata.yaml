@@ -1,0 +1,42 @@
+_repo: Life-of-Beethoven-Biographies-of-musicians_69693
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lalor, John J. (John Joseph)
+    deathdate: 1899
+    gutenberg_agent_id: '32857'
+    url: http://www.gutenberg.org/2009/agents/32857
+    wikipedia: https://en.wikipedia.org/wiki/John_Joseph_Lalor
+creator:
+  author:
+    agent_name: Nohl, Ludwig
+    aliases:
+    - Nohl, Karl Friedrich Ludwig
+    - Nohl, Louis
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '4810'
+    url: http://www.gutenberg.org/2009/agents/4810
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Ludwig_Nohl
+    - https://en.wikipedia.org/wiki/Ludwig_Nohl
+description: ''
+gutenberg_issued: '2023-01-03'
+identifiers:
+  gutenberg: '69693'
+language: en
+pgterms:marc904: https://archive.org/details/lifeofbeethoven00nohl_0/page/12/mode/2up
+pgterms:marc905: 20220714185526nohl
+pgterms:marc906: '1880'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: Janse, McClurg & Company,1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Life of Beethoven: Biographies of musicians'
+url: http://www.gutenberg.org/ebooks/69693
