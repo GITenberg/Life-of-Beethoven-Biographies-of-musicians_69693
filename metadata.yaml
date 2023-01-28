@@ -7,6 +7,9 @@ contributor:
     gutenberg_agent_id: '32857'
     url: http://www.gutenberg.org/2009/agents/32857
     wikipedia: https://en.wikipedia.org/wiki/John_Joseph_Lalor
+covers:
+- cover_type: archival
+  image_path: 69693-h/images/cover.jpg
 creator:
   author:
     agent_name: Nohl, Ludwig
@@ -21,6 +24,8 @@ creator:
     - https://de.wikipedia.org/wiki/Ludwig_Nohl
     - https://en.wikipedia.org/wiki/Ludwig_Nohl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69693#Life-of-Beethoven-Biographies-of-musicians
 gutenberg_issued: '2023-01-03'
 identifiers:
   gutenberg: '69693'
